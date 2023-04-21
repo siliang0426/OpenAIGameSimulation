@@ -1,1 +1,3 @@
 # OpenAIGameSimulation
+### Purpose:
+#### The purpose of this simulation was to simulate how would the NLP processing in the game environment which initialize by the creator. We are planning to having a environment which similar to the human early civilization's mythology, which a god create human being. All of the character's will be self-driven by the GPT, except for the god which act as a control panel by the user.
